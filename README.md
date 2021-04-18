@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am luxu!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/luxu?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/zicadopv?style=social)
 
 <!--
 **luxu/luxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
