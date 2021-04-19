@@ -55,7 +55,7 @@ Sou Desenvolvedor Backend na empresa Clint Tecnologia e trabalho com Django/Vuej
 
 ## &#x1f4c8; Minhas estatísticas no GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxu&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
