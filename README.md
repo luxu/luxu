@@ -46,9 +46,9 @@ Formado em Sistemas de Informação, trabalho com informática desde 1994 sendo 
 
 ## &#x1f4c8; Minhas estatísticas no GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxu&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxu&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
