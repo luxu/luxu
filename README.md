@@ -10,11 +10,12 @@ Formado em Sistemas de Informação, trabalho com informática desde 1994 sendo 
 
 ---
 
-
-
-
+<img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Quasar Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="Postgres Logo" width="150" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git Logo" width="150" height="50"/>
 <!--
-<img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" alt="Python Logo" width="50" height="50"/>
 **luxu/luxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
