@@ -10,9 +10,11 @@ Formado em Sistemas de Informação, trabalho com informática desde 1994 sendo 
 
 ---
 
-<img src="https://worldvectorlogo.com/download/python-3.svg" alt="Python Logo" width="50" height="50"/>
+
+
 
 <!--
+<img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" alt="Python Logo" width="50" height="50"/>
 **luxu/luxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
