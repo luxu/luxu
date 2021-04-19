@@ -21,6 +21,11 @@ Formado em Sistemas de Informação, trabalho com informática desde 1994 sendo 
 📺 Últimos Vídeos no YouTube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Parte 2 - WebScrapping by luxu](https://www.youtube.com/watch?v=XRm6PiRif5Y)
+- [Parte 1 - WebScrapping by luxu](https://www.youtube.com/watch?v=74-JaAk4KmQ)
+- [Parte 4 - WebScrapping by luxu](https://www.youtube.com/watch?v=aKwElVZ5URE)
+- [Parte 6 - WebScrapping by luxu](https://www.youtube.com/watch?v=Db8tH-VNxGI)
+- [Parte 5 - WebScrapping by luxu](https://www.youtube.com/watch?v=KMqCwzAibpY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
