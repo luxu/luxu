@@ -2,7 +2,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zicadopv?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/luxu?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5v-c9aW02w4CQM81REYvyA?style=social)
 
+<!--STARTS_HERE_QUOTE_README-->
 Formado em Sistemas de Informação, trabalho com informática desde 1994 sendo Instrutor e Técnico em Informática. Em 2015 consegui minha primeira oportunidade vindo a trabalhar com PHP(Magento). Em 2017, aprendi python onde vim a fazer meu primeiro freela com framework:Scrapy. Hoje, trabalho com Django/Vuejs.
+<!--ENDS_HERE_QUOTE_README-->
 
 ---
 
