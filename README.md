@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend na empresa Clint Tecnologia e trabalho com Django/Vuejs/Postgres.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
