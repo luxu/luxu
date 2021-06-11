@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend na empresa Clint Tecnologia e trabalho com Django/Vuejs/Postgres.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
