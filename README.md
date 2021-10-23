@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend na empresa Clint Tecnologia e trabalho com Django/Vuejs/Postgres.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
+<i>❝“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
