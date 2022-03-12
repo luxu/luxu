@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zicadopv?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/luxu?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5v-c9aW02w4CQM81REYvyA?style=social)
 
-Sou Desenvolvedor Backend na empresa Clint Tecnologia e trabalho com Django/Vuejs/Postgres.
+Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/Postgres.
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
@@ -19,7 +19,8 @@ Sou Desenvolvedor Backend na empresa Clint Tecnologia e trabalho com Django/Vuej
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django Logo" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vuejs Logo" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git Logo" width="150" height="50"/>
-
+[![Updates](https://pyup.io/repos/github/luxu/fpython/shield.svg)](https://pyup.io/repos/github/luxu/fpython/)
+[![Python 3](https://pyup.io/repos/github/luxu/fpython/python-3-shield.svg)](https://pyup.io/repos/github/luxu/fpython/)
 ---
 
 📺 Últimos Vídeos no YouTube
