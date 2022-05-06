@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/Postgres.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
