@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zicadopv?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/luxu?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5v-c9aW02w4CQM81REYvyA?style=social)
 
-Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/Postgres.
+Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
