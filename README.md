@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
