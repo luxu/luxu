@@ -30,7 +30,7 @@ Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 - [Como instalar o pipenv no windows sem problemas - Parte II](https://www.youtube.com/watch?v=hCj9byh6vHI)
 - [Como instalar o pipenv no windows sem problemas - Parte I](https://www.youtube.com/watch?v=GNdWz4Xz0Kc)
 - [Apresentação de uma API](https://www.youtube.com/watch?v=ALxOjE0vCbM)
-- [Parte 2 - WebScrapping by luxu](https://www.youtube.com/watch?v=XRm6PiRif5Y)
+- [Parte 1 - WebScrapping by luxu](https://www.youtube.com/watch?v=74-JaAk4KmQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
