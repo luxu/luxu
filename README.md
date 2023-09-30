@@ -21,6 +21,7 @@ Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git Logo" width="150" height="50"/>
 [![Updates](https://pyup.io/repos/github/luxu/fpython/shield.svg)](https://pyup.io/repos/github/luxu/fpython/)
 [![Python 3](https://pyup.io/repos/github/luxu/fpython/python-3-shield.svg)](https://pyup.io/repos/github/luxu/fpython/)
+[![Check Dependency Updates](https://github.com/luxu/fpython/actions/workflows/check-updates.yml/badge.svg)](https://github.com/luxu/fpython/actions/workflows/check-updates.yml)
 ---
 
 📺 Últimos Vídeos no YouTube
