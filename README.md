@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
+<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
