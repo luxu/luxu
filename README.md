@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
