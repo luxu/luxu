@@ -5,7 +5,7 @@
 Sou Desenvolvedor Backend e trabalho com Python/Django/Vuejs/WebScrapping.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
